@@ -1,0 +1,169 @@
+    1  time
+    2  set-timezone America/Mexico_City
+    3  Set-timezone America/Mexico_City
+    4  timedatectl set-timezone America/Mexico_City
+    5  time
+    6  timedatectl | grep "Local Time"
+    7  time
+    8  date
+    9  sudo su -
+   10  exit
+   11  ll
+   12  sudo ll
+   13  pwd
+   14  cd /home/cic
+   15  cd /home/alberto
+   16  sudo sudo
+   17  sudo useradd alegria
+   18  sudo vagrant
+   19  sudo vagrant
+   20  exit
+   21  sudo ls
+   22  sudo ls /etc/
+   23  python --version
+   24  sudo gcc install openss1-devel bzip2-devel libffilibffi-devel -y
+   25  sudo install gcc openss1-devel bzip2-devel libffilibffi-devel -y
+   26  sudo yum install gcc openss1-devel bzip2-devel libffilibffi-devel -y
+   27  cd /usr/local/src
+   28  wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz
+   29  sudo wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz
+   30  tar xvzf Python-3.7.0.tgz
+   31  sudo tar xvzf Python-3.7.0.tgz
+   32  pwd
+   33  cd Python-3.7.0/
+   34  ls
+   35  cat README.rst
+   36  sudo ./configure
+   37  sudo make
+   38  pwd
+   39  sudo make install
+   40  python3 --
+   41  python3 --version
+   42  history >> ~/2208_1.txt
+   43  ls
+   44  cd
+   45  ls
+   46  pwd
+   47  cp 2208_1.txt /vagrant/
+   48  tmux
+   49  sudo yum install epel-release
+   50  sudo yum install tmux
+   51  yum install htop
+   52  sudo yum install htop
+   53  tmux
+   54  nano /etc/m
+   55  sudo yum install git -y
+   56  git --config user.name "alberto"
+   57  cd /home
+   58  ls
+   59  git --config user.name "alberto"
+   60  git config --global user.name "alberto"
+   61  cd..
+   62  cd
+   63  git config --global user.name "alberto"
+   64  git config --global user.email "eiaj1981@gmail.com"
+   65  echo "# pruebas" >> README.md
+   66  git init
+   67  git add README.md
+   68  git commit -m "first commit"
+   69  git remote add origin https://github.com/JorgeEspinozaAlegria/pruebas.git
+   70  git push -u origin master
+   71  nano /etc/m
+   72  mkdir JAEA
+   73  ls
+   74  cd JAEA
+   75  none README.MD
+   76  nano README.MD
+   77  cd JAEA
+   78  cp README.MD TEST.MD
+   79  cp ~/README.MD TEST.MD
+   80  cat > DATOS.md
+   81  ps
+   82  git branch -a
+   83  history >> comandos.txt
+    1  time
+    2  set-timezone America/Mexico_City
+    3  Set-timezone America/Mexico_City
+    4  timedatectl set-timezone America/Mexico_City
+    5  time
+    6  timedatectl | grep "Local Time"
+    7  time
+    8  date
+    9  sudo su -
+   10  exit
+   11  ll
+   12  sudo ll
+   13  pwd
+   14  cd /home/cic
+   15  cd /home/alberto
+   16  sudo sudo
+   17  sudo useradd alegria
+   18  sudo vagrant
+   19  sudo vagrant
+   20  exit
+   21  sudo ls
+   22  sudo ls /etc/
+   23  python --version
+   24  sudo gcc install openss1-devel bzip2-devel libffilibffi-devel -y
+   25  sudo install gcc openss1-devel bzip2-devel libffilibffi-devel -y
+   26  sudo yum install gcc openss1-devel bzip2-devel libffilibffi-devel -y
+   27  cd /usr/local/src
+   28  wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz
+   29  sudo wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz
+   30  tar xvzf Python-3.7.0.tgz
+   31  sudo tar xvzf Python-3.7.0.tgz
+   32  pwd
+   33  cd Python-3.7.0/
+   34  ls
+   35  cat README.rst
+   36  sudo ./configure
+   37  sudo make
+   38  pwd
+   39  sudo make install
+   40  python3 --
+   41  python3 --version
+   42  history >> ~/2208_1.txt
+   43  ls
+   44  cd
+   45  ls
+   46  pwd
+   47  cp 2208_1.txt /vagrant/
+   48  tmux
+   49  sudo yum install epel-release
+   50  sudo yum install tmux
+   51  yum install htop
+   52  sudo yum install htop
+   53  tmux
+   54  nano /etc/m
+   55  sudo yum install git -y
+   56  git --config user.name "alberto"
+   57  cd /home
+   58  ls
+   59  git --config user.name "alberto"
+   60  git config --global user.name "alberto"
+   61  cd..
+   62  cd
+   63  git config --global user.name "alberto"
+   64  git config --global user.email "eiaj1981@gmail.com"
+   65  echo "# pruebas" >> README.md
+   66  git init
+   67  git add README.md
+   68  git commit -m "first commit"
+   69  git remote add origin https://github.com/JorgeEspinozaAlegria/pruebas.git
+   70  git push -u origin master
+   71  nano /etc/m
+   72  mkdir JAEA
+   73  ls
+   74  cd JAEA
+   75  none README.MD
+   76  nano README.MD
+   77  cd JAEA
+   78  cp README.MD TEST.MD
+   79  cp ~/README.MD TEST.MD
+   80  cat > DATOS.md
+   81  ps
+   82  git branch -a
+   83  history >> comandos.txt
+   84  git checkup -b comandos
+   85  git checkout -b comandos
+   86  history >> comandos.txt
